@@ -1,5 +1,5 @@
 import { Injectable, Inject } from '@angular/core';
-import { WebSocketSubject } from 'rxjs/websocket';
+import { WebSocketSubject } from 'rxjs/webSocket';
 import { Observable } from 'rxjs';
 import { WS_URL } from '../app.token';
 
